@@ -17,3 +17,7 @@ Based on this article: https://learn.microsoft.com/en-us/aspnet/core/security/au
   a. Publish to IIS: https://learn.microsoft.com/en-us/aspnet/core/tutorials/publish-to-iis?source=recommendations&view=aspnetcore-7.0&tabs=visual-studio
   b. Make sure Windows Authenticaiton is enabled in your security settings
   <img width="549" alt="Screenshot 2023-04-10 at 2 13 01 PM" src="https://user-images.githubusercontent.com/98342720/230989442-73f97ff4-6b22-48a3-a5ab-b1eae40fd547.png">
+
+
+Extras
+  1. Make sure you have .NET core 7 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.406-windows-arm64-installer
